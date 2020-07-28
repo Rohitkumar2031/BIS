@@ -1,2 +1,0 @@
-# BIS
-Arohatech Project
